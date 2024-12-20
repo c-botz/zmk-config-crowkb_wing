@@ -1,4 +1,6 @@
 {
+  "id": "crowkb_wing",
+  "name": "crowkb_wing",
   "layouts": {
     "default_transform": {
       "layout": [
@@ -47,5 +49,6 @@
         { "row": 3, "col":  9, "x": 11.35, "y": 4.75, "r":  -6, "rx": 8.9, "ry": 0 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
